@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^18.0.1",
+    "@angular/cli": "^18.0.1",
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0",
+    "@angular/platform-browser-dynamic": "^18.0.0",
+    "cypress": "^13.10.0"
+  },
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run",
+    "runtest": "npm run test"
+   
+  }
+ 
+}
+
